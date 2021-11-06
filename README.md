@@ -1,2 +1,3 @@
-this is a readme file created during a workshop organised by OSOC club of MCA at NITT
-# git-OSOC-workshop-repo
+#git-OSOC-workshop-repo
+
+This is a readme file made during the workshop organised my OSOC club of NITT.
